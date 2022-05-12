@@ -1,0 +1,529 @@
+{
+    "items": [
+        {
+            "id" : "1",
+            "title" : "Black air-kick  sneakers ",
+            "price" : "45",
+            "images" : [
+                "/images/air-kick(1).jpg",
+                "/images/air-kick(2).jpg",
+                "/images/air-kick(3).jpg",
+                "/images/air-kick(4).jpg"
+
+            ],
+            "category":"shirt",
+            "amount": 1
+            
+        },
+        {
+            "id" : "2",
+            "title" : "Vintage black t-shirt short-sleeved ",
+            "price" : "45",
+            "images" : [
+                "/images/black-shirt(1).jpg",
+                "/images/black-shirt(2).jpg",
+                "/images/black-shirt(3).jpg"
+                
+
+            ],
+
+            "category":"Shirt",
+            "amount": 1,
+            "department": "men'sfashion"
+            
+        },
+        {
+            "id" : "3",
+            "title" : "Black yeez kicks",
+            "price" : "45",
+            "images" : [
+                "/images/black-yeez(1).jpg",
+                "/images/black-yeez(2).jpg",
+                "/images/black-yeez(3).jpg",
+                "/images/black-yeez(4).jpg"
+
+            ],
+            "category":"Shoe",
+            "amount": 1
+            
+        },
+        {
+            "id" : "4",
+            "title" : "Blue white stripe vintage shirt",
+            "price" : "45",
+            "images" : [
+                "/images/blue-white-stripe(1).jpg",
+                "/images/blue-white-stripe(2).jpg",
+                "/images/blue-white-stripe(3).jpg",
+                "/images/blue-white-stripe(4).jpg"
+
+            ],
+            "category":"shirt",
+            "amount": 1,
+            "department": "men'sfashion"
+            
+        },
+        {
+            "id" : "5",
+            "title" : "color splash vintage shirt",
+            "price" : "45",
+            "images" : [
+                "/images/color-splash(1).jpg",
+                "/images/color-splash(2).jpg",
+                "/images/color-splash(3).jpg",
+                "/images/color-splash(4).jpg"
+
+            ],
+            "category":"shirt",
+            "amount": 1,
+            "department": "men'sfashion"
+            
+        },
+        {
+            "id" : "6",
+            "title" : "Easy fit sneakers ",
+            "price" : "45",
+            "images" : [
+                "/images/easy-fit(1).jpg",
+                "/images/easy-fit(2).jpg",
+                "/images/easy-fit(3).jpg",
+                "/images/easy-fit(4).jpg"
+            ],
+            "category":"Shoe",
+            "amount": 1
+            
+        },
+        {
+            "id" : "7",
+            "title" : "green/gold vintage shirt",
+            "price" : "45",
+            "images" : [
+                "/images/green-gold(1).jpg",
+                "/images/green-gold(2).jpg",
+                "/images/green-gold(3).jpg",
+                "/images/green-gold(4).jpg"
+            ],
+            "category":"shirt",
+            "amount": 1
+            
+        },
+        {
+            "id" : "8",
+            "title" : "red patterned vintage shirt",
+            "price" : "45",
+            "images" : [
+                "/images/red-shirt(1).jpg",
+                "/images/red-shirt(2).jpg",
+                "/images/red-shirt(3).jpg",
+                "/images/red-shirt(4).jpg"
+            ],
+            "category":"shirt",
+            "amount": 1,
+            "department": "men'sfashion"
+            
+        },
+        {
+            "id" : "9",
+            "title" : " vintage stripe shirt",
+            "price" : "45",
+            "images" : [
+                "/images/vintage-stripe(1).jpg",
+                "/images/vintage-stripe(2).jpg",
+                "/images/vintage-stripe(3).jpg",
+                "/images/vintage-stripe(4).jpg"
+            ],
+            "category":"shirt",
+            "amount": 1,
+            "department": "men'sfashion"
+            
+        },
+        {
+            "id" : "10",
+            "title" : "white-red floral vintage",
+            "price" : "45",
+            "images" : [
+                "/images/white-red-floral-shirt(1).jpg",
+                "/images/white-red-floral-shirt(2).jpg",
+                "/images/white-red-floral-shirt(3).jpg"
+            ],
+
+            "category":"shirt",
+            "amount": 1,
+            "department": "men'sfashion"
+            
+        },
+        {
+            "id" : "11",
+            "title" : "2pcs baby girls flower t-shirt + shorts",
+            "price" : "45",
+            "images" : [
+                "/images/2pcs baby girls flower t-shirt + shorts(1).jpeg",
+                "/images/2pcs baby girls flower t-shirt + shorts(2).jpeg",
+                "/images/2pcs baby girls flower t-shirt + shorts(3).jpeg",
+                "/images/2pcs baby girls flower t-shirt + shorts(4).jpeg"
+            ],
+
+            "category":"complete outfit",
+            "amount": 1,
+            "department": "children'sfashion"
+            
+        },
+        {
+            "id" : "12",
+            "title" : "Arm-less stripe jump suit",
+            "price" : "45",
+            "images" : [
+                "/images/Arm-less stripe jump suit(1).jpeg",
+                "/images/Arm-less stripe jump suit(2).jpeg",
+                "/images/Arm-less stripe jump suit(3).jpeg",
+                "/images/Arm-less stripe jump suit(1).jpeg"
+            ],
+
+            "category":"complete outfit",
+            "amount": 1,
+            "department": "women'sfashion"
+            
+        },
+        {
+            "id" : "13",
+            "title" : "black and white patterned long sleeved shirt",
+            "price" : "45",
+            "images" : [
+                "/images/black and white patterned long sleeved shirt(1).jpeg",
+                "/images/black and white patterned long sleeved shirt(2).jpeg",
+                "/images/black and white patterned long sleeved shirt(3).jpeg",
+                "/images/black and white patterned long sleeved shirt(4).jpeg"
+            ],
+
+            "category":"shirt",
+            "amount": 1,
+            "department": "women'sfashion"
+            
+        },
+        {
+            "id" : "14",
+            "title" : "Boys simple short sleeve polo",
+            "price" : "45",
+            "images" : [
+                "/images/Boys simple short sleeve polo(1).jpeg",
+                "/images/Boys simple short sleeve polo(2).jpeg",
+                "/images/Boys simple short sleeve polo(3).jpeg",
+                "/images/Boys simple short sleeve polo(1).jpeg"
+            ],
+
+            "category":"shirt",
+            "amount": 1,
+            "department": "kid'sfashion"
+            
+        },
+        {
+            "id" : "15",
+            "title" : "Camouflage high neck long sleeved jacket",
+            "price" : "45",
+            "images" : [
+                "/images/Camouflage high neck long sleeved jacket(1).jpeg",
+                "/images/Camouflage high neck long sleeved jacket(2).jpeg",
+                "/images/Camouflage high neck long sleeved jacket(3).jpeg",
+                "/images/Camouflage high neck long sleeved jacket(4).jpeg"
+            ],
+
+            "category":"jacket",
+            "amount": 1,
+            "department": "mens'sfashion"
+            
+        },
+        {
+            "id" : "16",
+            "title" : "Casual grey mans shorts",
+            "price" : "45",
+            "images" : [
+                "/images/Casual grey mans shorts(1).jpeg",
+                "/images/Casual grey mans shorts(2).jpeg",
+                "/images/Casual grey mans shorts(3).jpeg",
+                "/images/Casual grey mans shorts(4).jpeg"
+            ],
+
+            "category":"shorts",
+            "amount": 1,
+            "department": "mens'sfashion"
+            
+        },
+        {
+            "id" : "17",
+            "title" : "Celebrity pink denim jacket",
+            "price" : "45",
+            "images" : [
+                "/images/Celebrity pink denim jacket(1).jpeg",
+                "/images/Celebrity pink denim jacket(2).jpeg",
+                "/images/Celebrity pink denim jacket(3).jpeg",
+                "/images/Celebrity pink denim jacket(4).jpeg"
+            ],
+
+            "category":"jacket",
+            "amount": 1,
+            "department": "women'sfashion"
+            
+        },
+        {
+            "id" : "18",
+            "title" : "Champion grey t-shirt for men",
+            "price" : "45",
+            "images" : [
+                "/images/Champion grey t-shirt for men (1).jpeg",
+                "/images/Champion grey t-shirt for men (2).jpeg",
+                "/images/Champion grey t-shirt for men (3).jpeg",
+                "/images/Champion grey t-shirt for men (4).jpeg"
+            ],
+
+            "category":"shirt",
+            "amount": 1,
+            "department": "men'sfashion"
+            
+        },
+        {
+            "id" : "19",
+            "title" : "Complete grey plus-size outfit",
+            "price" : "45",
+            "images" : [
+                "/images/Complete grey plus-size outfit(1).jpeg",
+                "/images/Complete grey plus-size outfit(2).jpeg",
+                "/images/Complete grey plus-size outfit(3).jpeg",
+                "/images/Complete grey plus-size outfit(4).jpeg"
+            ],
+
+            "category":"complte outfit",
+            "amount": 1,
+            "department": "women'sfashion",
+            "type": "new arrival"
+            
+        },
+        {
+            "id" : "20",
+            "title" : "Dinosaur designed t-shirt+dinosaur patterned shorts unisex outfit",
+            "price" : "45",
+            "images" : [
+                "/images/Dinosaur designed t-shirt+dinosaur patterned shorts unisex outfit(1).jpeg",
+                "/images/Dinosaur designed t-shirt+dinosaur patterned shorts unisex outfit(2).jpeg",
+                "/images/Dinosaur designed t-shirt+dinosaur patterned shorts unisex outfit(3).jpeg",
+                "/images/Dinosaur designed t-shirt+dinosaur patterned shorts unisex outfit(1).jpeg"
+            ],
+
+            "category":"shirt",
+            "amount": 1,
+            "department": "kid'sfashion"
+            
+        },
+        {
+            "id" : "21",
+            "title" : "Dinosaur patterned kids gown",
+            "price" : "45",
+            "images" : [
+                "/images/Dinosaur patterned kids gown(1).jpeg",
+                "/images/Dinosaur patterned kids gown(2).jpeg",
+                "/images/Dinosaur patterned kids gown(3).jpeg",
+                "/images/Dinosaur patterned kids gown(4).jpeg"
+            ],
+
+            "category":"gown",
+            "amount": 1,
+            "department": "kid'sfashion"
+            
+        },
+        {
+            "id" : "22",
+            "title" : "Elegant high neck black shirt",
+            "price" : "45",
+            "images" : [
+                "/images/Elegant high neck black shirt(1).jpeg",
+                "/images/Elegant high neck black shirt(2).jpeg",
+                "/images/Elegant high neck black shirt(3).jpeg",
+                "/images/Elegant high neck black shirt(4).jpeg"
+            ],
+
+            "category":"shirt",
+            "amount": 1,
+            "department": "women'sfashion"
+            
+        },
+        {
+            "id" : "23",
+            "title" : "Elegant high neck floral shirt",
+            "price" : "45",
+            "images" : [
+                "/images/Elegant high neck floral shirt(1).jpeg",
+                "/images/Elegant high neck floral shirt(2).jpeg",
+                "/images/Elegant high neck floral shirt(3).jpeg",
+                "/images/Elegant high neck floral shirt(4).jpeg"
+            ],
+
+            "category":"shirt",
+            "amount": 1,
+            "department": "women'sfashion"
+            
+        },
+        {
+            "id" : "24",
+            "title" : "kids pink sweat shirt with jean trousers",
+            "price" : "45",
+            "images" : [
+                "/images/kids pink sweat shirt with jean trousers(1).jpeg",
+                "/images/kids pink sweat shirt with jean trousers(2).jpeg",
+                "/images/kids pink sweat shirt with jean trousers(3).jpeg",
+                "/images/kids pink sweat shirt with jean trousers(1).jpeg"
+            ],
+
+            "category":"complete outfit",
+            "amount": 1,
+            "department": "kid'sfashion"
+            
+        },
+        {
+            "id" : "25",
+            "title" : "lemon long sleeved sports jacket",
+            "price" : "45",
+            "images" : [
+                "/images/lemon long sleebed sportd jacket(1).jpeg",
+                "/images/lemon long sleebed sportd jacket(2).jpeg",
+                "/images/lemon long sleebed sportd jacket(3).jpeg",
+                "/images/lemon long sleebed sportd jacket(4).jpeg"
+            ],
+
+            "category":"jacket",
+            "amount": 1,
+            "department": "women'sfashion"
+            
+        },
+        {
+            "id" : "26",
+            "title" : "Light-blue denim kids jump-suit",
+            "price" : "45",
+            "images" : [
+                "/images/Light-blue denim kids jump-suit(1).jpeg",
+                "/images/Light-blue denim kids jump-suit(2).jpeg",
+                "/images/Light-blue denim kids jump-suit(3).jpeg",
+                "/images/Light-blue denim kids jump-suit(4).jpeg"
+            ],
+
+            "category":"jump suit",
+            "amount": 1,
+            "department": "kid'sfashion"
+            
+        },
+        {
+            "id" : "27",
+            "title" : "Minnie-mouse patterned top and shorts",
+            "price" : "45",
+            "images" : [
+                "/images/Minnie-mouse patterned top and shorts(1).jpeg",
+                "/images/Minnie-mouse patterned top and shorts(2).jpeg",
+                "/images/Minnie-mouse patterned top and shorts(3).jpeg",
+                "/images/Minnie-mouse patterned top and shorts(4).jpeg"
+            ],
+
+            "category":"complete outfit",
+            "amount": 1,
+            "department": "kid'sfashion"
+            
+        },
+        {
+            "id" : "28",
+            "title" : "Pain-brown mens long sleeve shirt",
+            "price" : "45",
+            "images" : [
+                "/images/Pain-brown mens long sleeve shirt(1).jpeg",
+                "/images/Pain-brown mens long sleeve shirt(2).jpeg",
+                "/images/Pain-brown mens long sleeve shirt(3).jpeg",
+                "/images/Pain-brown mens long sleeve shirt(1).jpeg"
+            ],
+
+            "category":"shirt",
+            "amount": 1,
+            "department": "men'sfashion",
+            "type": "new arrival"
+            
+        },
+        {
+            "id" : "29",
+            "title" : "Plus size blue floral swim suit",
+            "price" : "45",
+            "images" : [
+                "/images/Plus size blue floral swim suit(1).jpeg",
+                "/images/Plus size blue floral swim suit(2).jpeg",
+                "/images/Plus size blue floral swim suit(3).jpeg",
+                "/images/Plus size blue floral swim suit(1).jpeg"
+            ],
+
+            "category":"swim-suit",
+            "amount": 1,
+            "department": "women'sfashion",
+            "type": "new arrival"
+            
+        },
+        {
+            "id" : "30",
+            "title" : "Saftey vest styled orange t-shirt",
+            "price" : "45",
+            "images" : [
+                "/images/Saftey vest styled orange t-shirt(1).jpeg",
+                "/images/Saftey vest styled orange t-shirt(2).jpeg",
+                "/images/Saftey vest styled orange t-shirt(3).jpeg",
+                "/images/Saftey vest styled orange t-shirt(4).jpeg"
+            ],
+
+            "category":"shirt",
+            "amount": 1,
+            "department": "men'sfashion"
+            
+        },
+        {
+            "id" : "31",
+            "title" : "V-neck short arm floral jump-suit",
+            "price" : "45",
+            "images" : [
+                "/images/V-neck short arm floral jump-suit(1).jpeg",
+                "/images/V-neck short arm floral jump-suit(2).jpeg",
+                "/images/V-neck short arm floral jump-suit(3).jpeg",
+                "/images/V-neck short arm floral jump-suit(4).jpeg"
+            ],
+
+            "category":"jump-suit",
+            "amount": 1,
+            "department": "women'sfashion",
+            "type": "new arrival"
+            
+        },
+        {
+            "id" : "32",
+            "title" : "Wine long-sleeved jacket with hood",
+            "price" : "45",
+            "images" : [
+                "/images/Wine long-sleeved jacket with hood(1).jpeg",
+                "/images/Wine long-sleeved jacket with hood(2).jpeg",
+                "/images/Wine long-sleeved jacket with hood(3).jpeg",
+                "/images/Wine long-sleeved jacket with hood(4).jpeg"
+            ],
+
+            "category":"jacket",
+            "amount": 1,
+            "department": "unisexfashion"
+            
+        },
+        {
+            "id" : "33",
+            "title" : "Yellow top+jean pants+yellow bow girls complete outfit",
+            "price" : "45",
+            "images" : [
+                "/images/Yellow top+jean pants+yellow bow girls complete outfit(1).jpeg",
+                "/images/Yellow top+jean pants+yellow bow girls complete outfit(2).jpeg",
+                "/images/Yellow top+jean pants+yellow bow girls complete outfit(3).jpeg",
+                "/images/Yellow top+jean pants+yellow bow girls complete outfit(4).jpeg"
+            ],
+
+            "category":"jacket",
+            "amount": 1,
+            "department": "unisexfashion"
+            
+        }
+
+    ]
+}

@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="/account.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400&family=Quicksand&family=Roboto:ital,wght@0,400;0,500;0,700;1,100&family=Yellowtail&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400&family=Metrophobic&family=Quicksand&family=Roboto:ital,wght@0,400;0,500;0,700;1,100&family=Yellowtail&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="form-container">
+        <div class="wrapper create__account">
+            <header>
+                <div class="logo">
+                    <a href="/index.html"class="img flex"><img src="/images/clothes-hanger.png" alt="" > <span class="logo-text">ShopEasy</span></a>
+                </div>
+            </header>
+            <form action="" class="login-form">
+                <h1>Create an account with us</h1>
+                <div class="name ">
+                    <div class="form__input form__input--first-name">
+                        <p>First name</p>
+                        <input type="text" placeholder="First name" required>
+                    </div>
+                    <div class="form__input form__input--last-name">
+                        <p>Last name</p>
+                        <input type="text" placeholder="Last name" required>
+                    </div>
+                </div>
+                <div class="form__input form__input--email">
+                    <p>Email</p>
+                    <input type="email" placeholder="Email adress" name="email" class="email-input">
+                    <p id="email-error">Enter a valid email</p>
+                    
+                </div>
+                <div class="form__input form__input--password">
+                    <p>Password</p>
+                    <div class="password-div flex">
+                        <input type="password" placeholder="Create password " name="password" class="password-validate">
+                        <p class="password-display">
+                            
+                            <i class="fa-solid fa-eye" style="display: none;"></i>
+                            <i class="fa-solid fa-eye-slash" ></i>
+                        </p>
+
+                    </div>
+                    <div class="requirements">
+                        <h3>Your password must include the following:</h3>
+                        <p>8-100 characters</p>
+                        <p>Upper & lowercase letters</p>
+                        <p>At least one number or special character</p>
+                    </div>
+                </div>
+                <div class="policy flex">
+                    <input type="checkbox" class="check-box">
+                    <p>By creating an account , you acknowledge you have read and agreed to our <a href="#">Terms of Use</a> and <a href="#">Privacy Policy</a></p>
+                </div>
+                <button type="submit" class="submit__btn">Create account</button>
+                <p class="sign-in__p">Already  have an account? <a href="" class="sign-in__link">Sign-in</a> </p>
+    
+            </form>
+        </div>
+        <div class="wrapper Sign-in hide-form">
+            <header>
+                <div class="logo">
+                    <a href="/index.html"class="img flex"><img src="/images/clothes-hanger.png" alt=""> <span class="logo-text">ShopEasy</span></a>
+                </div>
+            </header>
+            <form action="" class="login-form">
+                <h1>Sign-in</h1>
+                
+                <div class="form__input form__input--email">
+                    <p>Email</p>
+                    <input type="email" placeholder="Email adress" name="email" >
+                </div>
+                <div class="form__input form__input--password">
+                    <p>Password</p>
+                    <div class="password-div flex">
+                        <input type="password" placeholder="Create password " name="password" class="password-validate--sign-in">
+                        <p class="password-display--sign-in">
+                            
+                            <i class="fa-solid fa-eye fa-eye--sign-in " style="display: none;"></i>
+                            <i class="fa-solid fa-eye-slash fa-eye-slash--sign-in" ></i>
+                        </p>
+
+                    </div>
+                    
+                </div>
+                <div class="policy flex">
+                    <div class="flex">
+                    <input type="checkbox" class="check-box">
+                    <p>Remember me</p>
+                    </div>
+                    <div>
+                        <a href="">forgot password?</a>
+                    </div>
+                    
+                </div>
+                <button type="submit" class="submit__btn">Sign-in</button>
+                <p class="sign-in__p">Don't  have an account? <a href="" class="create-account__link">Sign-up</a></p>
+    
+            </form>
+        </div>
+        
+    </div>
+    <script src="./account.js"></script>
+</body>
+</html>
