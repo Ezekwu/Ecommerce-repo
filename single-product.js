@@ -6,8 +6,10 @@ const wrapper = document.querySelector('.wrapper');
 const products = JSON.parse(localStorage.getItem('products'));
 const cart = JSON.parse(localStorage.getItem('cart'));
 console.log(products);
+console.log(cart);
 
-    
+const item = products.find(product=>product.id===id);
+console.log(item);
 
     //GET THE ID FROM THE URL
     const id = location.hash.substring(1);
