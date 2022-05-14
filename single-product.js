@@ -11,12 +11,12 @@ const cart = JSON.parse(localStorage.getItem('cart'));
 
     //GET THE ID FROM THE URL
     const id = location.hash.substring(1);
-   // const inCart = cart.find((item) => {
-      //  return item.id === id ;
-    //});
+    const inCart = cart.find((item) => {
+        return item.id === id ;
+    });
     //USE ID TO GET PRODUCT FROM PRODUCTS ARRAY
     const item = products.find(product=>product.id===id);
-    console.log(item.images);
+    
     
     //FILL THE DOM DYNAMICALLY
     wrapper.innerHTML =`<div class="single-product-image ">
