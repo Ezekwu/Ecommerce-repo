@@ -16,7 +16,7 @@ const cart = JSON.parse(localStorage.getItem('cart'));
     });
     //USE ID TO GET PRODUCT FROM PRODUCTS ARRAY
     const item = products.find(product=>product.id===id);
-    
+    console.log(item.images);
     
     //FILL THE DOM DYNAMICALLY
     wrapper.innerHTML =`<div class="single-product-image ">
