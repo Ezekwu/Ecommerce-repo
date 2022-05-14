@@ -14,7 +14,8 @@ const cart = JSON.parse(localStorage.getItem('cart'));
     const inCart = cart.find((item) => {
         return item.id === id ;
     });
-    //USE ID TO GET PRODUCT FROM PRODUCTS ARRAY
+    if(id){
+         //USE ID TO GET PRODUCT FROM PRODUCTS ARRAY
     const item = products.find(product=>product.id===id);
     
     
@@ -58,9 +59,6 @@ const cart = JSON.parse(localStorage.getItem('cart'));
     <p class="product-details">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto neque ipsam eos iure beatae cum corporis magni, natus quia odit. Libero neque sint nobis recusandae culpa earum sequi dolor hic. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo, commodi! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quo quae nemo cupiditate sapiente eaque temporibus voluptas veniam dolorem iure aspernatur! Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit ex eum rerum at accusamus odit eos esse commodi, illo optio. lorem40
     </p>
 </div>`
-
-
-
 //IMAGE SELECTOR LOGIC
 const bigImg = document.getElementById('big-img');
 const smallImgs = [...document.querySelectorAll('.small-img')];
@@ -321,6 +319,12 @@ modifiedDepartment.forEach((item) => {
     
 
 })
+
+    }
+    
+
+
+
 
 
 
