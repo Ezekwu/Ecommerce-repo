@@ -17,7 +17,7 @@ console.log(products);
     if(id){
          //USE ID TO GET PRODUCT FROM PRODUCTS ARRAY
     const item = products.find(product=>product.id===id);
-   
+    console.log(item);
     //FILL THE DOM DYNAMICALLY
     wrapper.innerHTML =`<div class="single-product-image ">
     <div class="big-image">
