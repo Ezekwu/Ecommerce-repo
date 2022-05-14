@@ -5,7 +5,7 @@
 const wrapper = document.querySelector('.wrapper');
 const products = JSON.parse(localStorage.getItem('products'));
 const cart = JSON.parse(localStorage.getItem('cart'));
-
+console.log(products);
 
     
 
@@ -17,8 +17,7 @@ const cart = JSON.parse(localStorage.getItem('cart'));
     if(id){
          //USE ID TO GET PRODUCT FROM PRODUCTS ARRAY
     const item = products.find(product=>product.id===id);
-    
-    
+   
     //FILL THE DOM DYNAMICALLY
     wrapper.innerHTML =`<div class="single-product-image ">
     <div class="big-image">
