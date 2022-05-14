@@ -1,3 +1,3 @@
-# Ecommerce-repo https://shopeasyecommercestore.netlify.app/
+# Ecommerce-repo 
  Easy-buy ecommerce website
 
