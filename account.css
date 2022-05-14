@@ -39,7 +39,7 @@ form{
     accent-color: var(--purple);
     margin-right: 1rem;
     
-    margin-bottom: 1.1rem;
+    
 }
 .password-div{
     width: 100%;
@@ -61,6 +61,9 @@ form{
 .password-display{
     cursor: pointer;
     color: var(--dark-purple);
+}
+.forgot-password{
+    margin-bottom: .3rem;
 }
 .form__input > input{
     width: 100%;

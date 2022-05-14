@@ -32,13 +32,13 @@ function toggleForm () {
 }
 toggleForm();
 
-//FORM VALIDATIONS
+//FORM VALIDATIONSj
 const inputs = [...document.querySelectorAll('input')];
 
 
 const regEx = {
     password : /(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])|(?=.*[^a-zA-z0-9])(?=.{8,100})/g,
-    email : /^([a-z\d\.-]+)@([a-z\d-]+)\.([a-z]{2,8})(\.[a-z]{2,8})?$/
+    email : /^([a-z\d\.-]+)@([a-z\d-]+)\.([a-z]{2,8})(\.[a-z]{2,8})?$/i
 }
 function validate (field, regex) {
     if(regex.test(field.value)){

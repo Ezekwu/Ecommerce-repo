@@ -22,7 +22,9 @@
             "images" : [
                 "/images/black-shirt(1).jpg",
                 "/images/black-shirt(2).jpg",
-                "/images/black-shirt(3).jpg"
+                "/images/black-shirt(3).jpg",
+                "/images/black-shirt(1).jpg"
+                
                 
 
             ],
@@ -144,7 +146,8 @@
             "images" : [
                 "/images/white-red-floral-shirt(1).jpg",
                 "/images/white-red-floral-shirt(2).jpg",
-                "/images/white-red-floral-shirt(3).jpg"
+                "/images/white-red-floral-shirt(3).jpg",
+                "/images/white-red-floral-shirt(1).jpg"
             ],
 
             "category":"shirt",

@@ -639,8 +639,15 @@ nav i{
     .product-grid::-webkit-scrollbar{
         display: none;
     }
+    .discount-percent p{
+        font-size: .8rem;
+    }
 }
-
+@media(max-width:450px){
+    .discount-percent p{
+        font-size: .7rem;
+    }
+}
 
 /*CATEGORIES*/
 .categories{
